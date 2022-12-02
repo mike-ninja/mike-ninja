@@ -3,7 +3,7 @@ Michel Philippe Barutel
 </p>
 
 <p align="center">
-- 🔭 I’m currently working on a group project in recreating our own [SHELL](https://github.com/mike-ninja/21sh).
+- 🔭 I’m currently working on a group project in recreating our own <a href="https://github.com/mike-ninja/21sh" target="_top">[SHELL]</a>
 </p>
 <p align="center">
 - 🌱 I’m currently learning C programming, BASH, DOCKER.
@@ -12,7 +12,7 @@ Michel Philippe Barutel
 - 🤔 I’m looking for help with intership opportunities for either embedded programming or cyber security
 </p>
 <p align="center">
-- 📫 How to reach me: [LINKEDIN](https://www.linkedin.com/in/michelphilippebarutel/).
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/michelphilippebarutel/" target="_top">[LINKEDIN]</a>
 </p>
 <p align="center">
 - ⚡ Fun fact: I like building things, playing games, hiking, climbing, cracking jokes & simply having a good time!
@@ -24,7 +24,4 @@ Michel Philippe Barutel
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mike-ninja"
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mike-ninja&repo=minishell&show_owner=true)](https://github.com/mike-ninja/minishell"
 </p>
