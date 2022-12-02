@@ -4,9 +4,17 @@ Michel Philippe Barutel
 
 <p align="center">
 - 🔭 I’m currently working on a group project in recreating our own [SHELL](https://github.com/mike-ninja/21sh).
+</p>
+<p align="center">
 - 🌱 I’m currently learning C programming, BASH, DOCKER.
+</p>
+<p align="center">
 - 🤔 I’m looking for help with intership opportunities for either embedded programming or cyber security
+</p>
+<p align="center">
 - 📫 How to reach me: [LINKEDIN](https://www.linkedin.com/in/michelphilippebarutel/).
+</p>
+<p align="center">
 - ⚡ Fun fact: I like building things, playing games, hiking, climbing, cracking jokes & simply having a good time!
 </p>
 
