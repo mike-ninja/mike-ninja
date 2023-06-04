@@ -3,12 +3,6 @@ Michel Philippe Barutel
 </p>
 
 <p align="center">
-- 🔭 I’m currently working on a group project in recreating our own <a href="https://github.com/mike-ninja/21sh" target="_top">[SHELL]</a>
-</p>
-<p align="center">
-- 🌱 I’m currently learning C programming, BASH, DOCKER.
-</p>
-<p align="center">
 - 🤔 I’m looking for help with intership opportunities for either embedded programming or cyber security
 </p>
 <p align="center">
