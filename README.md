@@ -14,7 +14,7 @@
         •  🏆 Check out <a href="https://portfolio-website-seven-gilt.vercel.app/">My Portfolio</a> to get to know from me more<br>
         •  😄 Fun fact: I made a remote control car with Legos, Raspberry Pi, PS4 controller, and Python
     </div>
-    <a href="https://linkedin.com/in/michelphilippebarutel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michelphilippebarutel" height="30" width="40" /></a>
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michelphilippebarutel" height="30" width="40" /></a>
     <div align="center">
         <h2>📫 Contact me:</h2>
         <a href="https://linkedin.com/in/michelphilippebarutel"></a>
