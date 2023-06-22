@@ -17,11 +17,13 @@
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michelphilippebarutel" height="30" width="40" /></a>
     <div align="center">
         <h2>📫 Contact me:</h2>
-        <a href="https://linkedin.com/in/michelphilippebarutel"></a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height ="40px" width="40px">
+        <a href="https://linkedin.com/in/michelphilippebarutel">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height ="40px" width="40px">
+        </a>
         </a>&emsp;
-        <a href="mailto:michelbarutel.work@hotmail.com"></a>
-        <img height="40px" width="40px" src="https://user-images.githubusercontent.com/1412131/58957746-8d342500-87a1-11e9-9c34-4c757712bd27.png">
+        <a href="mailto:michelbarutel.work@hotmail.com">
+            <img height="40px" width="40px" src="https://user-images.githubusercontent.com/1412131/58957746-8d342500-87a1-11e9-9c34-4c757712bd27.png">
+        </a>
     </div><br>
     <div align="center" style="display: inline_block">
         <h2>Checkout my GitHub stats</h2> 
