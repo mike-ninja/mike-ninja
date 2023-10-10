@@ -10,9 +10,8 @@
         •  💬 Using: different type of resources for studying <br>
         •  👨‍💻 Most of my projects are available on Github <br>
         •  🔥 My 1st proudest project so far <a href="https://github.com/maxrantil/42sh">42 Shell</a><br>
-        •  🔥 My 2nd proudest project so far <a href="https://portfolio-website-seven-gilt.vercel.app/">Portfolio Website</a><br>
-        •  🔥 My 3rd proudest project so far <a href="https://github.com/mike-ninja/Todo_app">Todo App</a><br>
-        •  🏆 Check out <a href="https://portfolio-website-seven-gilt.vercel.app/">My Portfolio</a> to get to know from me more<br>
+        •  🔥 My 2nd proudest project so far <a href="https://mbarutel.xyz">Portfolio Website</a><br>
+        •  🔥 My 3rd proudest project so far <a href="https://astudiolarnaca.com">Salon Website</a><br>
         •  😄 Fun fact: I made a remote control car with Legos, Raspberry Pi, PS4 controller, and Python
     </div>
     <div align="center">
